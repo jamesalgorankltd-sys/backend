@@ -1,5 +1,0 @@
-{
-  "functions": {
-    "api/convert.js": { "maxDuration": 30 }
-  }
-}
